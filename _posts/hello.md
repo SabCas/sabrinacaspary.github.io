@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-categories:[Blogpost, Projects]
+categories: [Blogpost, Projects]
 ---
 
 # Welcome
